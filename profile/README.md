@@ -9,14 +9,14 @@ This is my playbook—tested workflows, frameworks, and guides to help you work 
 ### Career Workflows
 - [Resume Writing Workflow](https://github.com/VeritasPlaybook/playbook/blob/main/career-workflow/resume-workflow/An%20AI-Powered%20Resume%20Workflow.md) - Systematic approach to effective resumes
 
-
-### Productivity Systems  
-- [Workflow Maximization Guide](./workflow-maximization.md) - Optimize your daily workflows
-- Time Blocking Framework *(coming soon)*
-
 ### AI-Powered Workflows
-- [AI Power User Guide](./ai-power-user-guide.md) - Leveraging AI tools effectively
-- Prompt Engineering Basics *(coming soon)*
+- Prompt Engineering Guiders *(coming soon)*
+
+### General Research
+- Next Gen AI - Life after LLMs *(coming soon)*
+
+### AI-Applications (Compliance/Payments/Anti-fraud + PM related)
+- Beyond Black Boxes: A PM's Guide to the Next Generation of Compliance AI *(coming soon)*
 
 ## 💡 Philosophy
 
@@ -24,6 +24,7 @@ These guides focus on:
 - **Systems over tools** - Workflows that work regardless of app
 - **Practical over perfect** - 80/20 approaches that actually get used  
 - **Tested methods** - I use these regularly and update based on results
+- **General AI research and applications** - How AI is changing the industry I specialize in (and hopefully what one can do about it***
 
 ## 🚀 Who This Is For
 
@@ -31,10 +32,11 @@ These guides focus on:
 - Professionals navigating career transitions
 - Anyone looking to work smarter with AI
 - People who value systems thinking
+- Compliance/Payments/Anti-fraud folks
 
 ## 📬 Connect
 
-💼 [LinkedIn](your-link)  
+💼 [LinkedIn](https://www.linkedin.com/in/malocilja/?view=public)  
 📊 [Investment Research](https://github.com/VeritasResearch)  
 🐙 [GitHub](https://github.com/VeritasNotes)
 
