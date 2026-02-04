@@ -15,7 +15,7 @@ This is my playbook—tested workflows, frameworks, and guides to help you work 
 ### General Research
 - Next Gen AI - Life after LLMs *(coming soon)*
 
-### AI-Applications (Compliance/Payments/Anti-fraud + PM related)
+### Applications of AI for Compliance/Payments/Anti-fraud from a PM perspective
 - Beyond Black Boxes: A PM's Guide to the Next Generation of Compliance AI *(coming soon)*
 
 For a complete list of my work, check out my [Repos](https://github.com/VeritasPlaybook/playbook)
