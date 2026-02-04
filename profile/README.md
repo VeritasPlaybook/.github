@@ -7,8 +7,8 @@ This is my playbook—tested workflows, frameworks, and guides to help you work 
 ## 🎯 What's Inside
 
 ### Career Workflows
-- [Resume Writing Workflow](./resume-writing-workflow.md) - Systematic approach to effective resumes
-- Job Search System *(coming soon)*
+- [Resume Writing Workflow](https://github.com/VeritasPlaybook/playbook/blob/main/career-workflow/resume-workflow/An%20AI-Powered%20Resume%20Workflow.md) - Systematic approach to effective resumes
+
 
 ### Productivity Systems  
 - [Workflow Maximization Guide](./workflow-maximization.md) - Optimize your daily workflows
