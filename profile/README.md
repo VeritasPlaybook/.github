@@ -18,6 +18,8 @@ This is my playbook—tested workflows, frameworks, and guides to help you work 
 ### AI-Applications (Compliance/Payments/Anti-fraud + PM related)
 - Beyond Black Boxes: A PM's Guide to the Next Generation of Compliance AI *(coming soon)*
 
+For a complete list of my work, check out my [Repos](https://github.com/orgs/VeritasPlaybook/repositories)
+
 ## 💡 Philosophy
 
 These guides focus on:
