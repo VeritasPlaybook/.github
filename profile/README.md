@@ -10,13 +10,17 @@ This is my playbook—tested workflows, frameworks, and guides to help you work 
 - [Resume Writing Workflow](https://github.com/VeritasPlaybook/playbook/blob/main/career-workflow/resume-workflow/An%20AI-Powered%20Resume%20Workflow.md) - Systematic approach to effective resumes
 
 ### AI-Powered Workflows
-- Prompt Engineering Guiders *(coming soon)*
+- Prompt Engineering Guides
+	- [The context prompt that will revolutionize your workflow](https://github.com/VeritasPlaybook/playbook/blob/main/ai-powered-workflows/The%20context%20prompt%20that%20will%20revolutionize%20your%20workflow.md)
+	- [Quick Reference Guide - 7 Phase Manual Deep Research Workflow](https://github.com/VeritasPlaybook/playbook/blob/main/ai-powered-workflows/Quick%20Reference%20Guide%20-%207%20Phase%20Manual%20Deep%20Research%20Workflow.md)
+	- [A Practical RLM-Inspired Workflow for Deep Research with AI](https://github.com/VeritasPlaybook/playbook/blob/main/ai-powered-workflows/A%20Practical%20RLM-Inspired%20Workflow%20for%20Deep%20Research%20with%20AI.md)
+	- [Complete Manual Deep Research Guide for Perplexity Pro](https://github.com/VeritasPlaybook/playbook/blob/main/ai-powered-workflows/Complete%20Manual%20Deep%20Research%20Guide%20for%20Perplexity%20Pro.md)
 
 ### General Research
 - Next Gen AI - Life after LLMs *(coming soon)*
 
 ### Applications of AI for Compliance/Payments/Anti-fraud from a PM perspective
-- Beyond Black Boxes: A PM's Guide to the Next Generation of Compliance AI *(coming soon)*
+- [Beyond Black Boxes - A PM’s Guide to the Next Generation of Compliance AI](https://github.com/VeritasPlaybook/playbook/blob/main/ai-payments-compliance-fraud-PM/Beyond%20Black%20Boxes%20-%20A%20PM%E2%80%99s%20Guide%20to%20the%20Next%20Generation%20of%20Compliance%20AI.md)
 
 For a complete list of my work, check out my [Repos](https://github.com/VeritasPlaybook/playbook)
 
